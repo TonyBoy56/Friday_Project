@@ -12,10 +12,9 @@ img {
   max-width: auto;
 }
 
-.about_me {
-
-}
-
-.education {
-  
+.pull_right {
+  float: right !important;
+  margin: 4px;
+  padding: 4px;
+  border: 4px solid darkmagenta;
 }
