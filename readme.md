@@ -8,13 +8,21 @@
 
 _This is my first portfolio page. Here you will find information about me, my personal life, and my career ambitions followed by my work history._
 
+## Previous Projects
+
+_Blog Post_
+https://github.com/assassin56/blog-post.git
+
+_Animal Shelter_
+https://github.com/assassin56/animal-page.git
+
+Vacation Page
+https://github.com/assassin56/vacation.git
 ## Setup/Installation Requirements
 
-* _Git init_
-* _Create Friday_Project folder_
-* _git config_
-* _Bootstrap_
-* _index.html_
+* _Install Git Bash_
+* git init from desktop
+* git clone this repo https://github.com/assassin56/Friday_Project.git
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 

@@ -3,6 +3,9 @@ body {
   font-size: 200%;
 }
 
+span {
+  color: red;
+}
 .jumbotron {
   background-color: lightcoral;
 }
