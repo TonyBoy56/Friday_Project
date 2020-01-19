@@ -32,7 +32,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-_None applicable_
+_Anchor tag for animal-page may not have uploaded successfully, unable to troubleshoot_
 
 ## Support and contact details
 
