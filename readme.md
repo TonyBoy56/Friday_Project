@@ -1,6 +1,6 @@
 # _Portfolio Landing Page_
 
-#### _This is a running webpage, 1/7/20_
+#### _This is a running webpage, as of 1/19/20_
 
 #### By _**Antonio Cruz**_
 
@@ -36,7 +36,8 @@ _Anchor tag for animal-page may not have uploaded successfully, unable to troubl
 
 ## Support and contact details
 
-_There are no contacts available at this time_
+_Antonio Cruz's email:_
+_codrocks.cruz3@gmail.com_
 
 ## Technologies Used
 
